@@ -1,0 +1,6 @@
+C:\Users\rhia7\Documents\00PROGRAMACION\Proven2019-2020\DDExt\M07\M07cuarentena\ContarVocales\ContarVocales\bin\Debug\ContarVocales.exe.config
+C:\Users\rhia7\Documents\00PROGRAMACION\Proven2019-2020\DDExt\M07\M07cuarentena\ContarVocales\ContarVocales\bin\Debug\ContarVocales.exe
+C:\Users\rhia7\Documents\00PROGRAMACION\Proven2019-2020\DDExt\M07\M07cuarentena\ContarVocales\ContarVocales\bin\Debug\ContarVocales.pdb
+C:\Users\rhia7\Documents\00PROGRAMACION\Proven2019-2020\DDExt\M07\M07cuarentena\ContarVocales\ContarVocales\obj\Debug\ContarVocales.exe
+C:\Users\rhia7\Documents\00PROGRAMACION\Proven2019-2020\DDExt\M07\M07cuarentena\ContarVocales\ContarVocales\obj\Debug\ContarVocales.pdb
+C:\Users\rhia7\Documents\00PROGRAMACION\Proven2019-2020\DDExt\M07\M07cuarentena\ContarVocales\ContarVocales\obj\Debug\ContarVocales.csprojAssemblyReference.cache
